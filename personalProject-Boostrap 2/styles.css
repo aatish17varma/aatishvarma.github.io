@@ -1,0 +1,57 @@
+*{
+  font-family: 'Inconsolata', monospace;
+  color: yellow;
+}
+
+  body {
+    background: black !important;
+  }
+
+  h1,h2 {
+    margin-top: 2%;
+  }
+  img {
+    margin-top: 3%
+  }
+
+  .navbar navbar-expand-lg navbar-light bg-light brand {
+    width: 100vw !important;
+  }
+
+  .first-page-title {
+      color: #cab1da;
+      text-align: center;
+      margin-top: 2%;
+  }
+  .upcoming-future {
+    color: #ff96e8;
+    margin-bottom: 2%;
+  }
+
+  .skills {
+    color: #7aff41;
+    margin-top: 5%;
+  }
+  .Js_Animation {
+    margin-top: 2%;
+  }
+  .animated_button {
+    color: black;
+  }
+
+  #summary-desription {
+    margin-top: 2%
+  }
+
+  #blog-text{
+    color: black;
+  }
+  #blog-title {
+    color: blue;
+  }
+  #second-video-description{
+    margin-top: 5%;
+  }
+  #projects-title {
+    color: #ff96e8;
+  }
